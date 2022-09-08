@@ -5,7 +5,8 @@ TARGET	=  power
 
 C_SOURCES =  myPower.cpp
 C_OBJS     = myPower.o
-MY_INCLUDES = rng.h
+MY_INCLUDES =
+
 
 CCX = g++
 CXXFLAGS = -g -std=c++11  -Wall
