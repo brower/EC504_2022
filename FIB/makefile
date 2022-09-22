@@ -3,8 +3,8 @@
 #============================================================
 TARGET	=  newFib
 
-C_SOURCES = newFib.cpp
-C_OBJS     = newFib.o
+C_SOURCES = 
+C_OBJS     = 
 MY_INCLUDES = feb.h
 
 CCX = g++

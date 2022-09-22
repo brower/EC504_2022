@@ -34,7 +34,7 @@ unsigned long int fibClean (int n) {
 double fibFloat(int k) {
   double phi = (1 + Sqrt5)/2.0;
   double phihat=  (1 - Sqrt5)/2.0;
- return  (1.0/Sqrt5)*( pow(phi,(double) k) -  pow(phihat,(double) k));
+  return  0;
   // return instead  correct equation using Sqrt5 and  pow(phi,(double) k) and  pow(phihat,(double) k)
     }
   
