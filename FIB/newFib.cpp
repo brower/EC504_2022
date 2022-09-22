@@ -25,10 +25,6 @@ unsigned long long int [0,18,446,744,073,709,551,615]
 using namespace std;
 
 
-#if 0
-
-
-
 // 2.2360679774997896964
 #define  Sqrt5   2.236067
 //#define  Sqrt5   2.2360679774997896964
